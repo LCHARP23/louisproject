@@ -7,6 +7,8 @@ body{
 	font-size: 16px;
 }
 
+.img-circle { /* select all elements with the class="img-circle" */
+  border-radius: 50%;
 
 H1{
 	color: #22577a; 
