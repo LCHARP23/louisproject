@@ -1,0 +1,33 @@
+/*colors and fonts*/ 
+
+body{
+	background: #f6f9fc;
+	color: rgb(30,30,30);
+	font-family: font-family: 'Lora', serif;
+	font-size: 16px;
+}
+
+
+H1{
+	color: #22577a; 
+	font-family: Arial; 
+	font-size: 45px;
+
+}
+
+H2{
+	color: #38a3a5;
+	font-family: Courrier; 
+	font-size: 30px;
+
+}
+
+a{
+	text-decoration: none;
+	color: 404258;
+	transition: color 0.3s ease;
+}
+
+a: hover {
+	color: yellow;
+}
